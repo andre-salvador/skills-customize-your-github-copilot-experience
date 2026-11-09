@@ -65,6 +65,13 @@
       "description": "Create a REST API with FastAPI, Pydantic validation, CRUD endpoints, and interactive documentation.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-16"
+    },
+    {
+      "id": "data-persistence-with-sqlite",
+      "title": "Data Persistence with SQLite",
+      "description": "Persist Python application data with SQLite and integrate a database with a FastAPI books API.",
+      "path": "assignments/data-persistence-with-sqlite",
+      "dueDate": "2026-11-16"
     }
   ]
 }
